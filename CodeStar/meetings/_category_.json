@@ -1,8 +1,8 @@
 {
-    "label": "عمومی",
+    "label": "جلسات",
     "position": 1,
     "link": {
         "type": "generated-index",
-        "slug": "general"
+        "slug": "meetings"
     }
 }
